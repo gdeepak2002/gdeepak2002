@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gdeepak2002
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python,java
 - 📫 How to reach me 9493573100
 
 <!---
